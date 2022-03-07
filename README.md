@@ -7,14 +7,16 @@ I’m Data Analyst/Data Scientist with interesting in web development
 - Also i'm interested in computer science and programming in general </br> 
 - I’m currently learning -> [Python Web Development Course](https://stepik.org/course/75/syllabus)
 
+</br>
+
   <a class="header-badge" target="_blank" href="https://www.codewars.com/users/Andreilinch">
-      <img align="left" alt="LinkdeIN" width="180px" alt="Codewars badge" src="https://www.codewars.com/users/Andreilinch/badges/micro">
+      <img align="middle" alt="LinkdeIN" width="150px" alt="Codewars badge" src="https://www.codewars.com/users/Andreilinch/badges/micro">
   </a>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/andrey-korotkiy/">
-      <img align="left" alt="LinkdeIN" width="30px" src="https://plan2profit.ca/wp-content/uploads/2018/12/linkedin-logo-white.png">
+      <img align="middle" alt="LinkdeIN" width="35px" src="https://plan2profit.ca/wp-content/uploads/2018/12/linkedin-logo-white.png">
   </a>
   <a target="_blank" href="https://www.instagram.com/dataanalytics/">
-  <img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Instagram_circle.svg/2048px-Instagram_circle.svg.png" />
+  <img align="middle" alt="Instagram" width="35px" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-6-low.png" />
   </a>
 
 <!---
