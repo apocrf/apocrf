@@ -18,6 +18,9 @@ I’m Data Analyst/Data Scientist with interesting in web development
   <a target="_blank" href="https://www.instagram.com/dataanalytics/">
   <img align="middle" alt="Instagram" width="35px" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-6-low.png" />
   </a>
+  
+  [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=andreikorotkiy&theme=dark)](https://github.com/Andreilinch/leetcode-stats)
+
 
 <!---
 Andreilinch/Andreilinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
