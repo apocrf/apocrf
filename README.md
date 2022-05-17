@@ -19,7 +19,7 @@ I’m Data Analyst/Data Scientist with interesting in web development
   <img align="middle" alt="Instagram" width="35px" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-6-low.png" />
   </a>
   
-  [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=andreikorotkiy&theme=dark)](https://github.com/Andreilinch/leetcode-stats)
+  [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=andreikorotkiy&theme=dark)](https://leetcode.com/andreikorotkiy/)
 
 
 <!---
