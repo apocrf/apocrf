@@ -5,7 +5,6 @@ I’m Data Analyst/Data Scientist with interesting in web development
 - I really love Data Science! I've been doing data analysis for about 5 years and never stop having fun 🏄🏼‍♂️
 - Trying to explain complicated thinks about data in a simple way -> [@dataanalytics](https://www.instagram.com/dataanalytics/)
 - Also i'm interested in computer science and programming in general </br> 
-- I’m currently learning -> [Python Web Development Course](https://stepik.org/course/75/syllabus)
 
 </br>
 
