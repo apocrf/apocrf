@@ -7,22 +7,21 @@ I’m Data Analyst/Data Scientist with interesting in web development
 - Also i'm interested in computer science and programming in general </br> 
 
 </br>
-
+  <a class="header-badge" target="_blank" href="https://leetcode.com/andreikorotkiy/">
+      <img align="middle" alt="leetcode" src="https://badges.peiyuan.ch/leetcode/andreikorotkiy/solved?logo=leetcode&style=for-the-badge&color=green">
+  </a>
   <a class="header-badge" target="_blank" href="https://www.codewars.com/users/Andreilinch">
-      <img align="middle" alt="LinkdeIN" width="150px" alt="Codewars badge" src="https://www.codewars.com/users/Andreilinch/badges/micro">
+      <img align="middle" alt="Codewars badge" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
   </a>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/andrey-korotkiy/">
-      <img align="middle" alt="LinkdeIN" width="35px" src="https://plan2profit.ca/wp-content/uploads/2018/12/linkedin-logo-white.png">
+    <a target="_blank" href="https://www.kaggle.com/andreikorotkiy/">
+  <img align="middle" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/dataanalytics/">
-  <img align="middle" alt="Instagram" width="35px" src="https://proofmart.com/wp-content/uploads/2021/06/instagram-6-low.png" />
+    <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/andrey-korotkiy/">
+      <img align="middle" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
  <!--- ![LeetCode Stats](https://leetcard.jacoblin.cool/andreikorotkiy?theme=dark&font=Montserrat&ext=heatmap)  --->
-  
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=andreikorotkiy&theme=dark)](https://leetcode.com/andreikorotkiy/)
-
-
+ 
 <!---
 Andreilinch/Andreilinch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
