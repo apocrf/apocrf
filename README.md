@@ -8,8 +8,9 @@ I’m Data Analyst/Data Scientist with interesting in web development
 
 </br>
   <a class="header-badge" target="_blank" href="https://leetcode.com/andreikorotkiy/">
-      <img align="middle" alt="leetcode" src="https://badges.peiyuan.ch/leetcode/andreikorotkiy/solved?logo=leetcode&style=for-the-badge&color=green">
+      <img align="middle" alt="leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fandreikorotkiy&logo=leetcode&logoColor=yellow">
   </a>
+  
   <a class="header-badge" target="_blank" href="https://www.codewars.com/users/Andreilinch">
       <img align="middle" alt="Codewars badge" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
   </a>
