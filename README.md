@@ -14,12 +14,19 @@ I’m Data Analyst/Data Scientist with interesting in web development
   <a class="header-badge" target="_blank" href="https://www.codewars.com/users/Andreilinch">
       <img align="middle" alt="Codewars badge" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey">
   </a>
+  </a>
+    <a class="header-badge" target="_blank" href="https://gitlab.com/apocrf">
+      <img align="middle" alt="Gitlab" src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=Gitlab">
+  </a>
     <a target="_blank" href="https://www.kaggle.com/andreikorotkiy/">
   <img align="middle" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
     <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/andrey-korotkiy/">
       <img align="middle" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+
+  
   
  <!--- ![LeetCode Stats](https://leetcard.jacoblin.cool/andreikorotkiy?theme=dark&font=Montserrat&ext=heatmap)  --->
  
