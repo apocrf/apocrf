@@ -1,6 +1,6 @@
 Hi! My name is **Andrey** 👋    
 
-I’m Data Analyst/Data Scientist with interesting in web development
+I’m MLE/MLOps engineer
 
 - I really love Data Science! I've been doing data analysis for about 5 years and never stop having fun 🏄🏼‍♂️
 - Trying to explain complicated thinks about data in a simple way -> [@dataanalytics](https://www.instagram.com/dataanalytics/)
